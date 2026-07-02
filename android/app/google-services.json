@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431861118983",
+    "project_id": "instasharefinal-frtyuc",
+    "storage_bucket": "instasharefinal-frtyuc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431861118983:android:ae7d9a5d576a1658c652a2",
+        "android_client_info": {
+          "package_name": "com.mycompany.instasharefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Lyr3zUBCeqhTBc29iRzk1lp19ZXaybc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
